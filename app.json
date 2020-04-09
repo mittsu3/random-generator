@@ -23,7 +23,11 @@
     "android": {
       "package": "com.mittsu.randomGenerator1st",
       "config": {
+<<<<<<< HEAD
+        "googleMobileAdsAppId": "ca-app-pub-2659333027229908~6468023359"
+=======
         "googleMobileAdsAppId": "ca-app-pub-2659333027229908~4510265811"
+>>>>>>> origin/master
       }
     },
     "description": "",

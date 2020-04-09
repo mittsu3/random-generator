@@ -113,10 +113,10 @@ export default App = (props) => {
       <AdMobBanner
         adUnitID={
           __DEV__
-            ? "ca-app-pub-3940256099942544/6300978111" // テスト広告
+            ? "ca-app-pub-2659333027229908/7589533330" // テスト広告
             : Platform.select({
-                ios: "ca-app-pub-2659333027229908/3197184147",
-                android: "ca-app-pub-2659333027229908/3197184147", // android
+                ios: "ca-app-pub-2659333027229908/7589533330",
+                android: "ca-app-pub-2659333027229908/7589533330", // android
               })
         }
         onDidFailToReceiveAdWithError={this.bannerError}
